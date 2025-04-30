@@ -25,3 +25,16 @@ A web application that allows users to explore various herbal ingredients, their
    ```bash
    git clone https://github.com/yourusername/herbal-ingredient-explorer.git
 
+
+### Key Points:
+1. **Use Headers**: Markdown headers are indicated by `#` for the main header and `##` for sub-headers. Each `#` represents a different level (e.g., `###` for smaller subheaders).
+2. **Bullet Points**: For lists, use `-` or `*` for bullet points.
+3. **Code Blocks**: Use triple backticks (```) for code blocks (like commands or code snippets).
+4. **Links**: Use `[text](url)` to add links, such as to the License file or external sources.
+5. **Bold Text**: Use `**text**` to make text bold.
+
+### To view it in GitHub:
+1. Make sure each section is separated by a blank line, and use the correct formatting for headings, code blocks, and lists.
+2. Once uploaded to GitHub, the markdown file will automatically format itself according to the rules.
+
+This format will make your `README.md` file well-structured, easy to read, and properly rendered when viewed on GitHub.
