@@ -24,17 +24,30 @@ A web application that allows users to explore various herbal ingredients, their
 
    ```bash
    git clone https://github.com/yourusername/herbal-ingredient-explorer.git
+2. Open the project folder:
+
+   ```bash
+   cd herbal-ingredient-explorer
+3. Open index.html in your browser:
+   The app is ready to use without any backend setup since it's entirely frontend-based.
 
 
-### Key Points:
-1. **Use Headers**: Markdown headers are indicated by `#` for the main header and `##` for sub-headers. Each `#` represents a different level (e.g., `###` for smaller subheaders).
-2. **Bullet Points**: For lists, use `-` or `*` for bullet points.
-3. **Code Blocks**: Use triple backticks (```) for code blocks (like commands or code snippets).
-4. **Links**: Use `[text](url)` to add links, such as to the License file or external sources.
-5. **Bold Text**: Use `**text**` to make text bold.
+## How to Use
 
-### To view it in GitHub:
-1. Make sure each section is separated by a blank line, and use the correct formatting for headings, code blocks, and lists.
-2. Once uploaded to GitHub, the markdown file will automatically format itself according to the rules.
+1. **Search for Ingredients**:
+   - Use the search bar at the top of the page to search for herbal ingredients by their **name** or **effect**. As you type, the ingredient list will filter based on your input.
 
-This format will make your `README.md` file well-structured, easy to read, and properly rendered when viewed on GitHub.
+2. **Build Your Wellness Stack**:
+   - To add an ingredient to your personalized wellness stack, check the checkbox next to the ingredient labeled "Add to Stack." This will add it to your stack, where you can see the selected ingredients.
+   - You can remove ingredients from your wellness stack by unchecking the checkbox next to the selected ingredient.
+
+3. **Compare Ingredients**:
+   - To compare ingredients, check the "Compare" checkbox next to the ingredients you want to compare.
+   - Once at least two ingredients are selected, click the **Compare** button to see a side-by-side comparison of their **effects** and **descriptions**.
+
+4. **Take Wellness Challenges**:
+   - Participate in wellness challenges to track your personal health and wellness goals. This feature helps you stay motivated by setting challenges related to the ingredients you are exploring.
+
+5. **Save Favorites**:
+   - Mark your favorite ingredients by clicking the **Add to Favorites** button. These will be saved in your user profile, allowing easy access to your preferred ingredients at any time.
+
